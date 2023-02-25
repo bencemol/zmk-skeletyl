@@ -4,4 +4,4 @@
 
 ### [Skeletyl](https://bastardkb.com/skeletyl/) by bastard keyboards
 
-![Skeletyl Miryoku layout](docs/keymap.svg)
+![Skeletyl Miryoku layout](docs/skeletyl.svg)
