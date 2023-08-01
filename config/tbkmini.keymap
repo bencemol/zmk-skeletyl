@@ -34,7 +34,7 @@
       compatible = "zmk,behavior-hold-tap";
       label = "LEFT_HOMEROW_MODS";
       #binding-cells = <2>;
-      flavor = "hold-preferred";
+      flavor = "balanced";
       tapping-term-ms = <200>;
       quick-tap-ms = <125>;
       global-quick-tap;
@@ -46,7 +46,7 @@
       compatible = "zmk,behavior-hold-tap";
       label = "RIGHT_HOMEROW_MODS";
       #binding-cells = <2>;
-      flavor = "hold-preferred";
+      flavor = "balanced";
       tapping-term-ms = <200>;
       quick-tap-ms = <125>;
       global-quick-tap;
