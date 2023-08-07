@@ -77,7 +77,7 @@
 	&kp Q        &kp W       &kp E        &kp R          &kp T              &kp Y          &kp U         &kp I       &kp O       &kp P
 	&lm LCTRL A  &lm LALT S  &lm LGUI D   &ls LSHFT F    &kp G              &kp H          &rs RSHFT J   &rm RGUI K  &rm LALT L  &rm RCTRL SEMI
 	&kp Z        &kp X       &kp C        &kp V          &kp B              &kp N          &kp M         &kp COMMA   &kp DOT     &kp FSLH
-	                         &lt SYS ESC  &lt NAV SPACE  &kp TAB            &lt SYM RET    &lt NUM BSPC  &kp LSHIFT
+	                         &lt SYS ESC  &lt NAV SPACE  &kp TAB            &lt SYM RET    &lt NUM BSPC  &lt FUN DEL
             >;
         };
         num_layer {
